@@ -30,4 +30,4 @@ Pınar Tüfekci, Prediction of full load electrical power output of a base load 
 Heysem Kaya, Pınar Tüfekci , Sadık Fikret Gürgen: Local and Global Learning Methods for Predicting Power of a Combined Gas & Steam Turbine, Proceedings of the International Conference on Emerging Trends in Computer and Electronics Engineering ICETCEE 2012, pp. 13-18 (Mar. 2012, Dubai)
 
 
-_Credits: _[Hadelin de Ponteves | Udemy](https://www.udemy.com/course/linear-regression-with-artificial-neural-network/)
+Credits: [Hadelin de Ponteves | Udemy](https://www.udemy.com/course/linear-regression-with-artificial-neural-network/)
